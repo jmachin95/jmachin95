@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java in the first year of my Computer Science course at University. I have also began to work on my HTML, CSS and JavaScript skills to build websites.
 - 💞️ I’m looking to collaborate with developers from whom I could gain valuable information and techniques to further enhance my skills as a developer
 - 📫 How to reach me: jackmachin95@gmail.com, [linkedIn]
-- 🥅 Goals: Contribute to open source projects to gain experience
+- 🥅 Goals: Contribute to open source projects and gain experience in software and web development to better my skills.
 - 🔆 Fun Fact: I love to play football and my favourite team is Stoke City 
 
 <br />
