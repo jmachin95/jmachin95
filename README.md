@@ -13,8 +13,9 @@
 
 ### Languages and tools:
 
-- I am currently learning Java but constantly looking to improve on any areas and fields that I'm exposed to
-- I am always seeking to improve on my skills based in Java with my next steps being able to implement GUIs into my programs 
+- I am currently learning Java, HTML and CSS but constantly looking to improve on any areas and fields that I'm exposed to
+- I am always seeking to improve on my skills based in Java with my next steps being able to implement GUIs into my programs
+- I am also looking to develop my web development skills by learning JavaScript and specific frameworks including React and implementing them into my personal website as well as other projects.
 
 
 
