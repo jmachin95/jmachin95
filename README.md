@@ -2,8 +2,8 @@
 
 
 ## I'm a Computer Science student at Keele University in my first year
-- 👀 I’m interested in the implementations of AI and machine learning for automation of tasks 
-- 🌱 I’m currently learning Java in the first year of my Computer Science course at University. I have also began to work on my HTML, CSS and JavaScript skills to build websites.
+- 👀 I’m interested in front-end web development 
+- 🌱 I’m currently learning Java in the first year of my Computer Science course at University. I have also began to work on my HTML, CSS and JavaScript skills to build websites and web apps.
 - 💞️ I’m looking to collaborate with developers from whom I could gain valuable information and techniques to further enhance my skills as a developer
 - 📫 How to reach me: jackmachin95@gmail.com, [linkedIn]
 - 🥅 Goals: Contribute to open source projects and gain experience in software and web development to better my skills.
